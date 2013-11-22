@@ -7,7 +7,7 @@ drive a two-wheeled robot in multiple directions.
 
 
 There is only one turn function for each direction and the length of the 
-turn is determined by using the _delay_cycles(numberOfCycles)` command. 
+turn is determined by using the `_delay_cycles(numberOfCycles)` command. 
 All commands are designed to end with the `stop()` function in order to
 better prevent damage to the motors from sudden direction changes.
 
